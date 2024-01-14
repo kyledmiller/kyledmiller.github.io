@@ -22,15 +22,15 @@ social: true # includes social icons at the bottom of the page
  -->
 
 ### Motivation
-I want to develop **data-driven solutions to materials problems** for a living. I thrive in **collaborative**, inquisitive environments. I value both intra-team and outward-facing **communcation** very highly. 
+I want to develop **data-driven solutions to materials problems** for a living. I thrive in **collaborative**, inquisitive environments. I value both intra-team and outward-facing **communication** very highly. 
 
 ### Background
-- B.S. in Physics**, Mathematics at University of Puget Sound
+- B.S. in Physics, Mathematics at University of Puget Sound
 - Summer REU in perovskite synthesis at University of Minnesota
-- Summer REU in molecular dynamics simulation of conducting polymer blends at Boise State University
+- Summer REU in molecular dynamics at Boise State University
 
 ### Current Work
-- NSF Graduate Research Fellow at Northwestern University
+- NSF Graduate Research Fellow at Northwestern University ([MTD Group](https://mtd.mccormick.northwestern.edu/))
     - Ferroelectric materials discovery
     - Developing design rules for metal-insulator transition materials
     - PhD anticipated Spring 2024
