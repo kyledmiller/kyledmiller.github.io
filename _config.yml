@@ -7,8 +7,8 @@ first_name: Kyle
 middle_name: Daniel
 last_name: Miller
 # email: kyledanielmiller@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  ML+DFT for materials design and discovery @ [Northwestern U.](https://mtd.mccormick.northwestern.edu/) & Sandia National Labs.  |  PhD anticipated Spring 2024  |  Seeking research and analytics positions in materials science, data science, and everything in between
+description: #> # the ">" symbol means to ignore newlines until "footer_text:"
+
 footer_text: # >
   # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -73,7 +73,7 @@ x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: kyle-miller-matsci # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: _6tFZ-IAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: 0000-0001-6083-6502 # your ORCID ID
@@ -122,9 +122,9 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+# blog_name:  # blog_name will be displayed in your blog page
+# blog_description: a simple whitespace theme for academics
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
