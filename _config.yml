@@ -8,12 +8,12 @@ middle_name: Daniel
 last_name: Miller
 # email: kyledanielmiller@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  ML+DFT for materials design and discovery @ [Northwestern U.](https://mtd.mccormick.northwestern.edu/) & Sandia National Labs.  |  PhD anticipated Spring 2024  |  Seeking research and analytics positions in materials science, data science, and everything in between
 footer_text: # >
   # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   # Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: # add your own keywords or leave empty
+keywords: materials informatics, density functional theory, autonomous materials discovery, functional materials, complex oxides, structure-property relationships, surrogate models # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: logo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
