@@ -1,35 +1,38 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kyle Daniel Miller",
+    "label": "Computational Materials Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "kyledmiller@duck.com",
+    "url": "https://kyledmiller.github.io",
+    "summary": "A Northwestern PhD candidate passionate about autonomous materials discovery, explainable AI, and scientific communication",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "postalCode": "IL 60202",
+      "city": "Evanston",
       "countryCode": "US",
-      "region": "California"
+      "region": "Illinois"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/kyle-miller-matsci/"
+      },
+      {
+        "network": "GitHub",
+        "username": "kyledmiller",
+        "url": "https://github.com/kyledmiller"
       }
+
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Materials Theory and Design Group, Northwestern University",
+      "position": "PhD Candidate",
+      "url": "https://mtd.mccormick.northwestern.edu/",
+      "startDate": "2018-09-01",
+      "endDate": "2024-05-31",
+      "summary": "",
       "highlights": ["Relativity"]
     }
   ],
@@ -46,65 +49,53 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Northwestern University",
+      "location": "Evanston, IL, USA",
+      "url": "https://www.mccormick.northwestern.edu/materials-science/",
+      "area": "Materials Science and Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
+      "startDate": "2018-09-01",
+      "endDate": "2024-05-31",
+      "score": "3.89",
+      "courses": ["Computational Materials Science", "Machine Learning", "Solid State Physics", "Inverse Methods", "Data-Driven Research Methods", "Phase Transformations in Materials", "Data Visualization"]
+    },
+    {
+        "institution": "University of Puget Sound",
+        "location": "Tacoma, WA, USA",
+        "url": "https://www.https://www.pugetsound.edu/",
+        "area": "Physics, Mathematics",
+        "studyType": "BS",
+        "startDate": "2018-09-01",
+        "endDate": "2024-05-31",
+        "score": "3.99",
+        "courses": ["Artificial Intelligence", "Mathematical Modeling", "Electromagnetic Theory", "Quantum Mechanics", "Statistical Mechanics"]
+      }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "NSF Graduate Research Fellowship",
+      "date": "2020",
+      "awarder": "National Science Foundation"
+    },
+    {
+        "title": "NSF Graduate Research Fellowship",
+        "date": "2020",
+        "awarder": "National Science Foundation",
+        "url": "",
+        "summary": ""
+      }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Management for Scientists and Engineers",
+      "date": "2023-06-13",
+      "issuer": "Kellogg School of Management, Northwestern University",
+      "url": "https://www.kellogg.northwestern.edu/programs/management-scientists-engineers.aspx",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
       "name": "Quantum Teleportation",
-      "date": "2018-01-01",
+      "date": "2023-06-13",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
