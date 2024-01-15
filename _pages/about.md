@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: ML+DFT for materials design and discovery | NSF-GRF | Rondinelli Group
 
