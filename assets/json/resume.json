@@ -58,15 +58,11 @@
   "volunteer": [
     {
         "position": "Reviewer",
-        "organization": "Chem. Mater.",
+        "organization": "",
         "startDate": 2022,
-        "highlights": []
-      },
-      {
-        "position": "Reviewer",
-        "organization": "Comm. Phys.",
-        "startDate": 2023,
-        "highlights": []
+        "highlights": [
+            "2022 | Chemistry of Materials | 1 article",
+            "2023 | Communications Physics | 1 article"]
       },
       {
         "position": "Curriculum Developer, Mentor",
@@ -330,16 +326,16 @@
         "Characterized strain-dependent ferroelectricity in 7 novel candidates"
       ],
       "summary": "Northwestern University",
-      "endDate": "2023"
+      "startDate": "2023"    
     },
     {
       "name": "Taxonomy of Structure Complements: Generalized Anti-Structures",
       "highlights": [
-        "Generalized the concept of anti-structures to include $n$-ary compounds, termed structure complements (SCs)",
+        "Generalized the concept of anti-structures to include \\(n\\)-ary compounds, termed structure complements (SCs)",
         "Created a high-throughput identification workflow and screened >80,000 structures to identify and classify SC networks"
       ],
       "summary": "Northwestern University",
-      "endDate": "2023"
+      "startDate": "2023"
     },
 
     {
@@ -350,6 +346,7 @@
         "Attended hands-on workshops to hone my skills in design and tuning of machine learning models and curation of data"
       ],
       "summary": "Solid-State Materials Chemistry and Data Science Hackathon",
+      "startDate": "2023",
       "endDate": "2023"
     },
     {
@@ -360,16 +357,18 @@
           "Overhauled understanding of GII as an absolute metric for structural stability, proposing new guidelines for effective use"
         ],
         "summary": "Northwestern University",
+        "startDate": "2022",
         "endDate": "2023"
       },
     {
-        "name": "Carrier-Induced Metal-Insulator Transition in Trirutile MgTa$_2$O$_6$",
+        "name": "Carrier-Induced Metal-Insulator Transition in Trirutile MgTa\\(_2\\)O$_6$",
         "highlights": [
           "Mapped the electronic and magnetic phases across electron doping in MgTa$_2$O$_6$",
           "Investigated coupling between electronic state and established structural indicators",
           "Assessed the similarities and differences in the transition-driving forces between the trirutile and rutile structures"
         ],
         "summary": "Northwestern University",
+        "startDate": "2019",
         "endDate": "2021"
       },
     {
@@ -380,11 +379,17 @@
           "Presented the new ground state structure compatible with previously unexplained distortions"
         ],
         "summary": "Northwestern University",
+        "startDate": "2019",
         "endDate": "2020"
       },
     {
-      "name": "Summer Research Intern",
+      "name": "High-throughput molecular simulations into the morphology of P3HT:PCBM blends",
+      "highlights": [
+        "Developed coarse-grained molecular dynamics model of self-assembly in conducting polymer blends",
+        "Mapped morphology phase diagram using radial distribution, clustering algorithms, and simulated X-ray scattering"
+      ],
       "summary": "Boise State University",
+      "startDate": "2017",
       "endDate": "2017"
     }
   ] 
