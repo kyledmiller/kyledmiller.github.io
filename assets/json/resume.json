@@ -114,7 +114,7 @@
       "location": "Evanston, IL, USA",
       "url": "https://www.mccormick.northwestern.edu/materials-science/",
       "area": "Materials Science and Engineering",
-      "studyType": "PhD",
+      "studyType": "Doctor of Philosophy",
       "startDate": "2018-09-01",
       "endDate": "2024-05-31",
       "score": "3.89",
@@ -125,7 +125,7 @@
         "location": "Tacoma, WA, USA",
         "url": "https://www.https://www.pugetsound.edu/",
         "area": "Physics, Mathematics",
-        "studyType": "BS",
+        "studyType": "Bachelor of Science",
         "startDate": "2018-09-01",
         "endDate": "2024-05-31",
         "score": "3.99",
@@ -137,47 +137,55 @@
         "title": "R&D 100",
         "description": "Awarded to **Ma**terials **L**earning **A**lgorithms (MALA) to which I contributed",
         "awarder": "R&D World",
-        "date": 2023
+        "date": 2023,
+        "url": "https://www.rdworldonline.com/2023-rd-100-award-winners/"
       },
       {
         "title": "NSF Graduate Research Fellowship",
         "date": 2020,
-        "awarder": "National Science Foundation"
+        "awarder": "National Science Foundation",
+        "url": "https://www.nsfgrfp.org/"
       },
       {
         "title": "Integrated Data-Driven Discovery in Earth and Astrophysical Sciences Fellowship",
         "awarder": "Northwestern University",
-        "date": 2019
+        "date": 2019,
+        "url": "https://www.ideas.ciera.northwestern.edu/"
       },
       {
         "title": "Peter K. Wallerich Scholarship",
         "description": "For excellence in scientific research",
         "awarder": "University of Puget Sound",
-        "date": 2016
+        "date": 2016,
+        "url": "https://www.pugetsound.edu/student-financial-services-current-undergraduate-students/scholarships-grants/scholarships/faculty/peter-k-wallerich-scholarship"
       },
       {
         "title": "Raymond and Olive Seward Scholarship",
         "description": "For excellence in physics",
         "awarder": "University of Puget Sound",
-        "date": 2016
+        "date": 2016,
+        "url": "https://www.pugetsound.edu/student-financial-services-current-undergraduate-students/scholarships-grants/scholarships-0"
       },
       {
         "title": "McGill Family Scholarship",
-        "description": "For excellence in math",
+        "description": "For excellence in mathematics",
         "awarder": "University of Puget Sound",
-        "date": 2016
+        "date": 2016,
+        "url": "https://www.pugetsound.edu/student-financial-services-current-undergraduate-students/scholarships-grants/scholarships-0"
       },
       {
         "title": "Thomas Malcolm and Hilda Enden Jack Scholarship",
-        "description": "For excellence in math",
+        "description": "For excellence in mathematics",
         "awarder": "University of Puget Sound",
-        "date": 2016
+        "date": 2016,
+        "url": "https://www.pugetsound.edu/student-financial-services-current-undergraduate-students/scholarships-grants/scholarships-0"
       },
       {
         "title": "Puget Sound Trustee Scholarship",
         "description": "For academic excellence",
         "awarder": "University of Puget Sound",
-        "date": 2014
+        "date": 2014,
+        "url": "https://www.pugetsound.edu/student-financial-services-current-undergraduate-students/scholarships-grants/scholarships/incoming/trustee-scholarship"
       }
   ],
   "certificates": [
@@ -192,13 +200,13 @@
       "name": "Science Communication",
       "date": "2020",
       "issuer": "Northwestern University",
-      "url": "https://example.com",
+      "url": "https://ciera.northwestern.edu/programs/scope/",
       "icon": "fa-solid fa-comments"
     }
   ],
   "publications": [
     {
-      "name": "Testing the Limits of the Global Instability Index.",
+      "name": "Testing the Limits of the Global Instability Index",
       "authors": ["K. D. Miller", "J. M. Rondinelli"],
       "publisher": "Applied Physics Letters Materials",
       "releaseDate": 2023,
@@ -208,7 +216,7 @@
       "url": "https://doi.org/10.1063/5.0140480"
     },
     {
-      "name": "Machine learning the electronic structure of matter across temperatures.",
+      "name": "Machine learning the electronic structure of matter across temperatures",
       "authors": ["L. Fiedler", "N. A. Modine", "K. D. Miller", "A. Cangi"],
       "publisher": "Physical Review B",
       "releaseDate": 2023,
@@ -218,7 +226,7 @@
       "url": "https://doi.org/10.1103/PhysRevB.108.125146"
     },
     {
-      "name": "Carrier-induced metal-insulator transition in trirutile MgTa$_2$O$_6$.",
+      "name": "Carrier-induced metal-insulator transition in trirutile MgTa\\(_2\\)O\\(_6\\)",
       "authors": ["K. D. Miller", "J. M. Rondinelli"],
       "publisher": "Physical Review Materials",
       "releaseDate": 2022,
@@ -227,7 +235,7 @@
       "url": "https://doi.org/10.1103/PhysRevMaterials.6.075007"
     },
     {
-      "name": "Database, Features, and Machine Learning Modeling to Identify Thermally Driven Metal-Insulator Transition Compounds.",
+      "name": "Database, Features, and Machine Learning Modeling to Identify Thermally Driven Metal-Insulator Transition Compounds",
       "authors": ["A. B. Georgescu", "P. Ren", "A. R. Toland", "S. Zhang", "K. D. Miller", "D. Apley", "E. A. Olivetti", "N. Wagner", "J. M. Rondinelli"],
       "publisher": "Chemistry of Materials",
       "releaseDate": 2021,
@@ -237,7 +245,7 @@
       "url": "https://doi.org/10.1021/acs.chemmater.1c00905"
     },
     {
-      "name": "AB$_2$X$_6$ Compounds and the Stabilization of Trirutile Oxides.",
+      "name": "AB\\(_2\\)X\\(_6\\) Compounds and the Stabilization of Trirutile Oxides",
       "authors": ["E. C. Schueller", "Y. M. Oey", "K. D. Miller", "K. E. Wyckoff", "R. Zhang", "W. Zhang", "S. D. Wilson", "J. M. Rondinelli", "R. Seshadri"],
       "publisher": "Inorganic Chemistry",
       "releaseDate": 2021,
@@ -247,7 +255,7 @@
       "url": "https://doi.org/10.1021/acs.inorgchem.1c01366"
     },
     {
-      "name": "Structural signatures of the insulator-to-metal transition in BaCo$_{1−x}$Ni$_x$S$_2$.",
+      "name": "Structural signatures of the insulator-to-metal transition in BaCo\\(_{1−x}\\_Ni\\(_x\\)S\\(_2\\)",
       "authors": ["E. C. Schueller", "K. D. Miller", "W. Zhang", "J. L. Zuo", "J. M. Rondinelli", "S. D. Wilson", "R. Seshadri"],
       "publisher": "Physical Review Materials",
       "releaseDate": 2020,
@@ -257,7 +265,7 @@
       "url": "https://doi.org/10.1103/PhysRevMaterials.4.104401"
     },
     {
-      "name": "Optimization and Validation of Efficient Models for Predicting Polythiophene Self-Assembly.",
+      "name": "Optimization and Validation of Efficient Models for Predicting Polythiophene Self-Assembly",
       "authors": ["E. D. Miller", "M. L. Jones", "M. M. Henry", "P. Chery", "K. Miller", "E. Jankowski"],
       "publisher": "Polymers",
       "releaseDate": 2018,
@@ -361,9 +369,9 @@
         "endDate": "2023"
       },
     {
-        "name": "Carrier-Induced Metal-Insulator Transition in Trirutile MgTa\\(_2\\)O$_6$",
+        "name": "Carrier-Induced Metal-Insulator Transition in Trirutile MgTa\\(_2\\)O\\(_6\\)",
         "highlights": [
-          "Mapped the electronic and magnetic phases across electron doping in MgTa$_2$O$_6$",
+          "Mapped the electronic and magnetic phases across electron doping in MgTa\\(_2\\)O\\(_6\\)",
           "Investigated coupling between electronic state and established structural indicators",
           "Assessed the similarities and differences in the transition-driving forces between the trirutile and rutile structures"
         ],
@@ -372,7 +380,7 @@
         "endDate": "2021"
       },
     {
-        "name": "Structural Signatures of the Insulator-to-Metal Transition in BaCo$_{1−x}$Ni$_x$S$_2$",
+        "name": "Structural Signatures of the Insulator-to-Metal Transition in BaCo\\(_{1−x}\\_Ni\\(_x\\)S\\(_2\\)",
         "highlights": [
           "Discovered the origin of structural distortions observed by experimental collaborators using first-principles calculation compatible with anomalous sulfide disorder observed in experiment",
           "Transformed our understanding of the insulator-to-metal transition by connecting it to the origin of the distortions",
