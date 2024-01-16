@@ -5,7 +5,7 @@
     "image": "",
     "email": "kyledmiller@duck.com",
     "url": "https://kyledmiller.github.io",
-    "summary": "A Northwestern PhD candidate passionate about autonomous materials discovery, explainable AI, and scientific communication",
+    "summary": "Northwestern PhD candidate passionate about autonomous materials discovery, explainable AI, and scientific communication",
     "location": {
       "postalCode": "IL 60202",
       "city": "Evanston",
@@ -27,7 +27,7 @@
   },
   "work": [
     {
-      "name": "Northwestern University, Materials Theory and Design Group",
+      "name": "Northwestern University &ensp;|&ensp; Materials Theory and Design Group",
       "position": "Graduate Research Fellow",
       "url": "https://mtd.mccormick.northwestern.edu/",
       "startDate": "2018-09",
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "name": " Sandia National Laboratories, Computational Materials Division",
+      "name": " Sandia National Laboratories &ensp;|&ensp; Computational Materials Division",
         "position": "Graduate R&D Intern",
         "url": "https://www.sandia.gov/",
         "startDate": "2022-09",
@@ -61,7 +61,7 @@
         "organization": "",
         "startDate": 2022,
         "highlights": [
-            "2022 | Chemistry of Materials | 1 article",
+            "2022 &ensp;|&ensp; Chemistry of Materials &ensp;|&ensp; 1 article",
             "2023 | Communications Physics | 1 article"]
       },
       {
