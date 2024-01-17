@@ -126,7 +126,7 @@
     {
         "institution": "University of Puget Sound",
         "location": "Tacoma, WA, USA",
-        "url": "https://www.https://www.pugetsound.edu/",
+        "url": "https://www.pugetsound.edu/",
         "area": "Physics, Mathematics",
         "studyType": "Bachelor of Science",
         "startDate": "2018",
@@ -136,13 +136,6 @@
       }
   ],
   "awards": [
-    {
-        "title": "R&D 100",
-        "description": "Awarded to **Ma**terials **L**earning **A**lgorithms (MALA) to which I contributed",
-        "awarder": "R&D World",
-        "date": 2023,
-        "url": "https://www.rdworldonline.com/2023-rd-100-award-winners/"
-      },
       {
         "title": "NSF Graduate Research Fellowship",
         "date": 2020,
@@ -324,7 +317,7 @@
       "reference": "Research Scientist in Computational Materials and Data Science &ensp;|&ensp; Sandia National Laboratories &ensp;|&ensp; Dr. Modine has been my research internship advisor since August 2022."
     },
     {
-      "name": "Professor Ram Seshadri",
+      "name": "Prof. Ram Seshadri",
         "icon": "fa-solid fa-handshake-simple",
         "reference": "Fred and Linda R. Wudl Professor of Materials Science &ensp;|&ensp; University of California, Santa Barbara &ensp;|&ensp; Prof. Seshadri is on my dissertation committee and we collaborated on two interdisciplinary publications."
     }
