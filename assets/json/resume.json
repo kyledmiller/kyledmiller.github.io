@@ -62,11 +62,11 @@
         "startDate": 2022,
         "highlights": [
             "2022 &ensp;|&ensp; Chemistry of Materials &ensp;|&ensp; 1 article",
-            "2023 | Communications Physics | 1 article"]
+            "2023 &ensp;|&ensp; Communications Physics &ensp;|&ensp; 1 article"]
       },
       {
         "position": "Curriculum Developer, Mentor",
-        "organization": "Coding Club | Pedersen-McCormick Boys and Girls Club",
+        "organization": "Coding Club &ensp;|&ensp; Pedersen-McCormick Boys and Girls Club",
         "startDate": 2020,
         "endDate": "Present",
         "url": "https://github.com/kyledmiller/coding-club/tree/master",
@@ -77,7 +77,7 @@
       },
       {
         "position": "Mentor",
-        "organization": "Junior Science Club | Pedersen-McCormick Boys and Girls Club",
+        "organization": "Junior Science Club &ensp;|&ensp; Pedersen-McCormick Boys and Girls Club",
         "startDate": 2019,
         "endDate": 2020,
         "highlights": [
@@ -87,7 +87,7 @@
       },
       {
         "position": "Student Representative",
-        "organization": "Strategic Planning Steering Committee | University of Puget Sound",
+        "organization": "Strategic Planning Steering Committee &ensp;|&ensp; University of Puget Sound",
         "startDate": 2017,
         "endDate": 2018,
         "highlights": [
@@ -97,7 +97,7 @@
       },
       {
         "position": "Media Coordinator",
-        "organization": "Advocates for Detained Voices (club) | University of Puget Sound",
+        "organization": "Advocates for Detained Voices (club) &ensp;|&ensp; University of Puget Sound",
         "startDate": 2015,
         "endDate": 2018,
         "url": null,
@@ -313,17 +313,17 @@
     {
       "name": "Prof. James M. Rondinelli",
       "icon": "fa-solid fa-graduation-cap",
-      "reference": "Walter Dill Scott Professor of Materials Science and Engineering | Northwestern University | Prof. Rondinelli has been my Ph.D. advisor since August 2018."
+      "reference": "Walter Dill Scott Professor of Materials Science and Engineering &ensp;|&ensp; Northwestern University &ensp;|&ensp; Prof. Rondinelli has been my Ph.D. advisor since August 2018."
     },
     {
       "name": "Dr. Normand A. Modine",
       "icon": "fa-solid fa-flask-vial",
-      "reference": "Research Scientist in Computational Materials and Data Science | Sandia National Laboratories | Dr. Modine has been my research internship advisor since August 2022."
+      "reference": "Research Scientist in Computational Materials and Data Science &ensp;|&ensp; Sandia National Laboratories &ensp;|&ensp; Dr. Modine has been my research internship advisor since August 2022."
     },
     {
       "name": "Professor Ram Seshadri",
         "icon": "fa-solid fa-handshake-simple",
-        "reference": "Fred and Linda R. Wudl Professor of Materials Science | University of California, Santa Barbara | Prof. Seshadri is on my dissertation committee and we collaborated on two interdisciplinary publications."
+        "reference": "Fred and Linda R. Wudl Professor of Materials Science &ensp;|&ensp; University of California, Santa Barbara &ensp;|&ensp; Prof. Seshadri is on my dissertation committee and we collaborated on two interdisciplinary publications."
     }
   ],
   "projects": [
