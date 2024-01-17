@@ -30,7 +30,7 @@
       "name": "Northwestern University &ensp;|&ensp; Materials Theory and Design Group",
       "position": "Graduate Research Fellow",
       "url": "https://mtd.mccormick.northwestern.edu/",
-      "startDate": "2018-09",
+      "startDate": "2018",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -45,7 +45,7 @@
       "name": " Sandia National Laboratories &ensp;|&ensp; Computational Materials Division",
         "position": "Graduate R&D Intern",
         "url": "https://www.sandia.gov/",
-        "startDate": "2022-09",
+        "startDate": "2022",
         "endDate": "Present",
         "highlights": [
             "Developed data shuffling method for Materials Learning Algorithms (MALA)",
@@ -115,8 +115,8 @@
       "url": "https://www.mccormick.northwestern.edu/materials-science/",
       "area": "Materials Science and Engineering",
       "studyType": "Doctor of Philosophy",
-      "startDate": "2018-09-01",
-      "endDate": "2024-05-31",
+      "startDate": "2018",
+      "endDate": "2024",
       "score": "3.89",
       "courses": ["Computational Materials Science", "Machine Learning", "Solid State Physics", "Inverse Methods", "Data-Driven Research Methods", "Phase Transformations in Materials", "Data Visualization"]
     },
@@ -126,8 +126,8 @@
         "url": "https://www.https://www.pugetsound.edu/",
         "area": "Physics, Mathematics",
         "studyType": "Bachelor of Science",
-        "startDate": "2018-09-01",
-        "endDate": "2024-05-31",
+        "startDate": "2018",
+        "endDate": "2024",
         "score": "3.99",
         "courses": ["Artificial Intelligence", "Mathematical Modeling", "Electromagnetic Theory", "Quantum Mechanics", "Statistical Mechanics"]
       }
