@@ -27,9 +27,25 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 
 ### Motivation
-I want to develop **data-driven solutions to materials problems** for a living. I thrive in **collaborative**, inquisitive environments. I value both intra-team and outward-facing **communication** very highly. 
+I aim to create **data-driven solutions for materials problems**. I excel in **collaborative**, inquisitive environments and prioritize effective communication.
 
 ### Background
+
+
+<div style="display: flex; align-items: center;">
+  <img src="assets/img/logo_ups.jpg" alt="Logo" style="width: 100px; float: left; margin-right: 10px;">
+  <p>
+    B.S. in Physics, Mathematics @ <em>University of Puget Sound</em>
+  </p>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <img src="assets/img/logo_umn.png" alt="Logo" style="width: 100px; float: left; margin-right: 10px;">
+  <p>
+    Summer REU in perovskite synthesis @ <em>University of Minnesota</em>
+  </p>
+</div>
+
 - B.S. in Physics, Mathematics @ *University of Puget Sound*
 - Summer REU in perovskite synthesis @ *University of Minnesota*
 - Summer REU in molecular dynamics @ *Boise State University*
