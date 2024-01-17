@@ -27,7 +27,9 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 
 ### Motivation
-I aim to create **data-driven solutions for materials problems**. I excel in **collaborative**, inquisitive environments and prioritize effective communication.
+- I want to create **data-driven solutions for materials problems**. 
+- I excel in **collaborative**, inquisitive environments. 
+- I prioritize efficient **communication** and **fast failure** .
 
 <!-- 
 
