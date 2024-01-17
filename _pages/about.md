@@ -2,16 +2,17 @@
 layout: about
 title: About
 permalink: /
-subtitle: ML+DFT for materials design and discovery | NSF-GRF | Rondinelli Group
+subtitle: ML+DFT for materials design and discovery &ensp;|&ensp; NSF-GRF &ensp;|&ensp; Rondinelli Group
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Northwestern University</p>
     <p>Evanston, IL</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false #true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -20,6 +21,10 @@ social: true # includes social icons at the bottom of the page
 <!-- TODO:
     - Add icons for background schools
  -->
+
+### Keywords
+Autonomous materials discovery and design &ensp;|&ensp; Surrogate models for atomic simulation &ensp;|&ensp; Structure-property relationships &ensp;|&ensp; Multiferroics &ensp;|&ensp; Metal-insulator transitions &ensp;|&ensp; Active learning &ensp;|&ensp; Explainable AI &ensp;|&ensp; Physics-informed models &ensp;|&ensp; Uncertainty quantification &ensp;|&ensp; Data visualization
+
 
 ### Motivation
 I want to develop **data-driven solutions to materials problems** for a living. I thrive in **collaborative**, inquisitive environments. I value both intra-team and outward-facing **communication** very highly. 
