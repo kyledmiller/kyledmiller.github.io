@@ -1,0 +1,31 @@
+{
+"skills": [
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "icon": "fa-brands fa-python",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Density Functional Theory",
+      "keywords": ["Strongly-correlated compounds", ""
+        ]
+    },
+    {
+      "name": "Machine Learning"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+        "language": "Spanish",
+        "fluency": "Limited working proficiency",
+        "icon": ""
+      }
+  ]
+}
