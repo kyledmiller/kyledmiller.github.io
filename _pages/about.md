@@ -29,23 +29,28 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 ### Motivation
 I aim to create **data-driven solutions for materials problems**. I excel in **collaborative**, inquisitive environments and prioritize effective communication.
 
-### Background
-
+<!-- 
 
 <div style="display: flex; align-items: center;">
   <img src="assets/img/logo_ups.jpg" alt="Logo" style="width: 100px; float: left; margin-right: 10px;">
   <p>
-    B.S. in Physics, Mathematics @ <em>University of Puget Sound</em>
+    <strong>University of Puget Sound</strong>
+    B.S. in Physics, Mathematics | Minor Computer Science (2014-2018)
+    <br>
+
   </p>
 </div>
 
+&nbsp;
+
 <div style="display: flex; align-items: center;">
-  <img src="assets/img/logo_umn.png" alt="Logo" style="width: 100px; float: left; margin-right: 10px;">
+  <img src="assets/img/logo_umn.png" alt="Logo" style="width: 70px; float: left; margin-right: 10px;">
   <p>
     Summer REU in perovskite synthesis @ <em>University of Minnesota</em>
   </p>
-</div>
+</div> -->
 
+### Background
 - B.S. in Physics, Mathematics @ *University of Puget Sound*
 - Summer REU in perovskite synthesis @ *University of Minnesota*
 - Summer REU in molecular dynamics @ *Boise State University*
@@ -56,6 +61,7 @@ I aim to create **data-driven solutions for materials problems**. I excel in **c
     - Developing design rules for metal-insulator transition materials
     - PhD anticipated Spring 2024
 
+&nbsp;
 
 - Computational materials intern @ *Sandia National Laboratories*
     - Building neural network surrogate models for atomistic simulation
