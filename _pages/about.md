@@ -60,9 +60,7 @@ I aim to create **data-driven solutions for materials problems**. I excel in **c
     - Discovering and tuning ferroelectric materials
     - Developing design rules for metal-insulator transition materials
     - PhD anticipated Spring 2024
-
-&nbsp;
-
+<br>
 - Computational materials intern @ *Sandia National Laboratories*
     - Building neural network surrogate models for atomistic simulation
 
