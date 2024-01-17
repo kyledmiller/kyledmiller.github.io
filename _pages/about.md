@@ -23,28 +23,28 @@ social: true # includes social icons at the bottom of the page
  -->
 
 ### Keywords
-Autonomous materials discovery and design &ensp;|&ensp; Surrogate models for atomic simulation &ensp;|&ensp; Structure-property relationships &ensp;|&ensp; Multiferroics &ensp;|&ensp; Metal-insulator transitions &ensp;|&ensp; Active learning &ensp;|&ensp; Explainable AI &ensp;|&ensp; Physics-informed models &ensp;|&ensp; Uncertainty quantification &ensp;|&ensp; Data visualization
+Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for atomic simulation &ensp;|&ensp; Structure-property relationships &ensp;|&ensp; Multiferroics &ensp;|&ensp; Metal-insulator transitions &ensp;|&ensp; Active learning &ensp;|&ensp; Explainable AI &ensp;|&ensp; Physics-informed models &ensp;|&ensp; Uncertainty quantification &ensp;|&ensp; Data visualization
 
 
 ### Motivation
 I want to develop **data-driven solutions to materials problems** for a living. I thrive in **collaborative**, inquisitive environments. I value both intra-team and outward-facing **communication** very highly. 
 
 ### Background
-- B.S. in Physics, Mathematics at University of Puget Sound
-- Summer REU in perovskite synthesis at University of Minnesota
-- Summer REU in molecular dynamics at Boise State University
+- B.S. in Physics, Mathematics @ *University of Puget Sound*
+- Summer REU in perovskite synthesis @ *University of Minnesota*
+- Summer REU in molecular dynamics @ *Boise State University*
 
 ### Current Work
-- NSF Graduate Research Fellow at Northwestern University ([MTD Group](https://mtd.mccormick.northwestern.edu/))
-    - Ferroelectric materials discovery
+- NSF Graduate Research Fellow @ *Northwestern University* ([MTD Group](https://mtd.mccormick.northwestern.edu/))
+    - Discovering and tuning ferroelectric materials
     - Developing design rules for metal-insulator transition materials
     - PhD anticipated Spring 2024
-- Computational materials intern at Sandia National Laboratories
-    - Active learning in neural network surrogate models for atomistic simulation
+- Computational materials intern @ *Sandia National Laboratories*
+    - Building neural network surrogate models for atomistic simulation
 
-### Future Work
+<!-- ### Future Work
 - Open to: Research and analytics positions in materials science, data science, and everything in between
-- Dream job: Building *autonomous materials discovery* workflows
+- Dream job: Building autonomous materials discovery workflows -->
 
 
 <!-- - **Current work**: I leverage materials informatics and first-principles methods to study the structure-property relationships in inorganic materials. -->
