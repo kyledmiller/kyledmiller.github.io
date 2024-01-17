@@ -255,7 +255,7 @@
       "url": "https://doi.org/10.1021/acs.inorgchem.1c01366"
     },
     {
-      "name": "Structural signatures of the insulator-to-metal transition in BaCo\\(_{1−x}\\_Ni\\(_x\\)S\\(_2\\)",
+      "name": "Structural signatures of the insulator-to-metal transition in BaCo\\(_{1−x}\\)Ni\\(_x\\)S\\(_2\\)",
       "authors": ["E. C. Schueller", "K. D. Miller", "W. Zhang", "J. L. Zuo", "J. M. Rondinelli", "S. D. Wilson", "R. Seshadri"],
       "publisher": "Physical Review Materials",
       "releaseDate": 2020,
@@ -380,7 +380,7 @@
         "endDate": "2021"
       },
     {
-        "name": "Structural Signatures of the Insulator-to-Metal Transition in BaCo\\(_{1−x}\\_Ni\\(_x\\)S\\(_2\\)",
+        "name": "Structural Signatures of the Insulator-to-Metal Transition in BaCo\\(_{1−x}\\)Ni\\(_x\\)S\\(_2\\)",
         "highlights": [
           "Discovered the origin of structural distortions observed by experimental collaborators using first-principles calculation compatible with anomalous sulfide disorder observed in experiment",
           "Transformed our understanding of the insulator-to-metal transition by connecting it to the origin of the distortions",
