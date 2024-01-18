@@ -70,12 +70,27 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 &nbsp;&nbsp;⇒ Developing design rules for metal-insulator transition materials
 
 <img src="assets/img/logo_sandia.png" alt="Sandia logo"     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
-<img src="assets/img/logo_mala.png"   alt="MALA logo"       style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
+<img src="assets/img/logo_mala.png"   alt="MALA logo"       style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;"></img>
 
+<div>
+</div>
 
 **Computational materials intern** @ *Sandia National Laboratories*\\
 &nbsp;&nbsp;⇒ Building neural network surrogate models for atomistic simulation\\
 &nbsp;&nbsp;⇒ Contributing to the [Materials Learning Algorithms (MALA) framework ](https://github.com/mala-project/mala)
+
+
+<div style="display: flex;">
+  <div style="margin-right: 10px;">
+    <img src="assets/img/logo_sandia.png" alt="Sandia logo" style="width: 30px; margin-bottom: 10px;">
+    <img src="assets/img/logo_mala.png" alt="MALA logo" style="width: 30px;">
+  </div>
+
+**Computational materials intern** @ *Sandia National Laboratories*\\
+&nbsp;&nbsp;⇒ Building neural network surrogate models for atomistic simulation\\
+&nbsp;&nbsp;⇒ Contributing to the [Materials Learning Algorithms (MALA) framework ](https://github.com/mala-project/mala)
+
+</div>
 
 <!-- <img src="assets/img/logo_sandia.png" alt="NU logo"     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
 <br>
