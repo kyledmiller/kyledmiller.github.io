@@ -9,8 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>PhD anticipated Spring 2024</p>
+    <p>Materials Science & Engineering</p> 
     <p>Northwestern University</p>
-    <p>Evanston, IL</p>
+    <p>Evanston, IL, USA</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -23,13 +25,14 @@ social: false # includes social icons at the bottom of the page
  -->
 
 ### Keywords
-Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for atomic simulation &ensp;|&ensp; Structure-property relationships &ensp;|&ensp; Multiferroics &ensp;|&ensp; Metal-insulator transitions &ensp;|&ensp; Active learning &ensp;|&ensp; Explainable AI &ensp;|&ensp; Physics-informed models &ensp;|&ensp; Uncertainty quantification &ensp;|&ensp; Data visualization
+Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for atomic simulation &ensp;|&ensp; Structure-property relationships &ensp;|&ensp; Multiferroics &ensp;|&ensp; Metal-insulator transitions &ensp;|&ensp; Active learning &ensp;|&ensp; Explainable AI &ensp;|&ensp; Physics-informed models
+ <!-- &ensp;|&ensp; Uncertainty quantification &ensp;|&ensp; Data visualization -->
 
 
 ### Motivation
 - I want to create **data-driven solutions for materials problems**. 
 - I excel in **collaborative**, inquisitive environments. 
-- I prioritize efficient **communication** and **fast failure** .
+- I prioritize **efficient communication** and **fast failure**.
 
 <!-- 
 
@@ -58,13 +61,26 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 - Summer REU in molecular dynamics @ *Boise State University*
 
 ### Current Work
-- NSF Graduate Research Fellow @ *Northwestern University, [MTD Group](https://mtd.mccormick.northwestern.edu/)*
+- **NSF Graduate Research Fellow** @ *Northwestern University, [MTD Group](https://mtd.mccormick.northwestern.edu/)*
     - Discovering and tuning ferroelectric materials
     - Developing design rules for metal-insulator transition materials
-    - PhD anticipated Spring 2024
+
 <br>
-- Computational materials intern @ *Sandia National Laboratories*
-    - Building neural network surrogate models for atomistic simulation
+
+<img src="assets/img/logo_nu.png" alt="NU logo"     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
+
+**Computational materials intern** @ *Sandia National Laboratories*
+
+<img src="assets/img/logo_mala.png" alt="MALA logo" style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
+
+&rarr Building neural network surrogate models for atomistic simulation &rarr; ([**Ma**terials **L**earning **A**lgorithms Project](https://github.com/mala-project/mala))
+
+
+<img src="assets/img/logo_nu.png" alt="NU logo"     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
+<img src="assets/img/logo_mala.png" alt="MALA logo" style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
+**Computational materials intern** @ *Sandia National Laboratories*
+&rarr Building neural network surrogate models for atomistic simulation &rarr; ([**Ma**terials **L**earning **A**lgorithms Project](https://github.com/mala-project/mala))
+
 
 <!-- ### Future Work
 - Open to: Research and analytics positions in materials science, data science, and everything in between
