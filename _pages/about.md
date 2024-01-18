@@ -65,21 +65,20 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
     - Discovering and tuning ferroelectric materials
     - Developing design rules for metal-insulator transition materials
 
-<br>
-
-<img src="assets/img/logo_nu.png" alt="NU logo"     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
+<img src="assets/img/logo_sandia.png" alt="NU logo"     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
+<img src="assets/img/logo_mala.png" alt="MALA logo" style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
 
 **Computational materials intern** @ *Sandia National Laboratories*
 
+⇒ Building neural network surrogate models for atomistic simulation ([Materials Learning Algorithms](https://github.com/mala-project/mala))
+
+<img src="assets/img/logo_sandia.png" alt="NU logo"     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
+&nbsp;
 <img src="assets/img/logo_mala.png" alt="MALA logo" style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
 
-&rarr Building neural network surrogate models for atomistic simulation &rarr; ([**Ma**terials **L**earning **A**lgorithms Project](https://github.com/mala-project/mala))
-
-
-<img src="assets/img/logo_nu.png" alt="NU logo"     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
-<img src="assets/img/logo_mala.png" alt="MALA logo" style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
 **Computational materials intern** @ *Sandia National Laboratories*
-&rarr Building neural network surrogate models for atomistic simulation &rarr; ([**Ma**terials **L**earning **A**lgorithms Project](https://github.com/mala-project/mala))
+
+⇒ Building neural network surrogate models for atomistic simulation ([Materials Learning Algorithms](https://github.com/mala-project/mala))
 
 
 <!-- ### Future Work
