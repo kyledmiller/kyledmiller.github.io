@@ -68,16 +68,14 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 <img src="assets/img/logo_sandia.png" alt="NU logo"     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
 <img src="assets/img/logo_mala.png" alt="MALA logo" style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
 
-**Computational materials intern** @ *Sandia National Laboratories*
-
+**Computational materials intern** @ *Sandia National Laboratories*\\
 ⇒ Building neural network surrogate models for atomistic simulation ([Materials Learning Algorithms](https://github.com/mala-project/mala))
 
 <img src="assets/img/logo_sandia.png" alt="NU logo"     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
-&nbsp;
+<br>
 <img src="assets/img/logo_mala.png" alt="MALA logo" style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
 
 **Computational materials intern** @ *Sandia National Laboratories*
-
 ⇒ Building neural network surrogate models for atomistic simulation ([Materials Learning Algorithms](https://github.com/mala-project/mala))
 
 
