@@ -61,22 +61,27 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 - Summer REU in molecular dynamics @ *Boise State University*
 
 ### Current Work
-- **NSF Graduate Research Fellow** @ *Northwestern University, [MTD Group](https://mtd.mccormick.northwestern.edu/)*
-    - Discovering and tuning ferroelectric materials
-    - Developing design rules for metal-insulator transition materials
+
+<img src="assets/img/logo_nu.png" alt="NU logo"     style="width: 40px; float: left; margin-right: 5px; margin-bottom: 10px; margin-top: 10px;">
+<img src="assets/img/logo_mtdg.png" alt="MALA logo" style="width: 40px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
+
+**NSF Graduate Research Fellow** @ *Northwestern University, [MTD Group](https://mtd.mccormick.northwestern.edu/)*
+&nbsp;&nbsp;⇒ Discovering and tuning ferroelectric materials
+&nbsp;&nbsp;⇒ Developing design rules for metal-insulator transition materials
 
 <img src="assets/img/logo_sandia.png" alt="NU logo"     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
 <img src="assets/img/logo_mala.png" alt="MALA logo" style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
 
 **Computational materials intern** @ *Sandia National Laboratories*\\
-⇒ Building neural network surrogate models for atomistic simulation ([Materials Learning Algorithms](https://github.com/mala-project/mala))
+&nbsp;&nbsp;⇒ Building neural network surrogate models for atomistic simulation 
+&nbsp;&nbsp;⇒ Contributing to the [Materials Learning Algorithms (MALA) framework ](https://github.com/mala-project/mala)
 
-<img src="assets/img/logo_sandia.png" alt="NU logo"     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
+<!-- <img src="assets/img/logo_sandia.png" alt="NU logo"     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
 <br>
 <img src="assets/img/logo_mala.png" alt="MALA logo" style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
 
 **Computational materials intern** @ *Sandia National Laboratories*
-⇒ Building neural network surrogate models for atomistic simulation ([Materials Learning Algorithms](https://github.com/mala-project/mala))
+⇒ Building neural network surrogate models for atomistic simulation ([Materials Learning Algorithms](https://github.com/mala-project/mala)) -->
 
 
 <!-- ### Future Work
