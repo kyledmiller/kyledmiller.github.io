@@ -62,8 +62,8 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 ### Current Work
 
-<img src="assets/img/logo_nu.png"   alt="NU logo"           style="width: 30px; float: left; margin-right: 7px; margin-bottom: 10px; margin-top: 10px;">
-<img src="assets/img/logo_mtdg.png" alt="MTDG logo"         style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
+<img src="assets/img/logo_nu.png"   alt="NU logo"           style="width: 30px; float: left; margin-right: 7px; margin-bottom: 15px; margin-top: 15px;">
+<img src="assets/img/logo_mtdg.png" alt="MTDG logo"         style="width: 30px; float: left; margin-right: 10px; margin-bottom: 15px; margin-top: 15px;">
 
 **NSF Graduate Research Fellow** @ *Northwestern University, [MTD Group](https://mtd.mccormick.northwestern.edu/)*\\
 &nbsp;&nbsp;⇒ Discovering and tuning ferroelectric materials\\
