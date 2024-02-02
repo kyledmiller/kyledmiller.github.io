@@ -7,7 +7,7 @@ first_name: Kyle
 middle_name: Daniel
 last_name: Miller
 email: kyledmiller@duck.com
-description: Kyle Daniel Miller  | ML+DFT for materials design and discovery  |  NSF-GRF  |  Rondinelli Group#> # the ">" symbol means to ignore newlines until "footer_text:"
+description: Kyle Daniel Miller | PhD Candidate | ML+DFT for materials design and discovery | Rondinelli Group#> # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: # >
   # Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.

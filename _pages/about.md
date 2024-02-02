@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: ML+DFT for materials design and discovery &ensp;|&ensp; NSF-GRF &ensp;|&ensp; Rondinelli Group
+subtitle: ML+DFT for materials design and discovery &ensp;|&ensp; PhD Candidate &ensp;|&ensp; Rondinelli Group
 
 profile:
   align: right
