@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD anticipated Spring 2024</p>
+    <p>PhD anticipated Summer 2024</p>
     <p>Materials Science & Engineering</p> 
     <p>Northwestern University</p>
     <p>Evanston, IL, USA</p>
