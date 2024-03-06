@@ -5,7 +5,7 @@
     "image": "",
     "email": "kyledmiller@duck.com",
     "url": "https://kyledmiller.github.io",
-    "summary": "Northwestern PhD candidate passionate about autonomous materials discovery, explainable AI, and scientific communication",
+    "summary": "Inquisitive PhD candidate & national laboratory intern with 7 publications and 5 years of experience using first-principles calculation, informatics, and machine learning to solve materials science problems. Passionate about sustainability, mentoring, and explainable models. Excels in scientific communication and integrated ML+simulation workflow development",
     "location": {
       "postalCode": "IL 60202",
       "city": "Evanston",
@@ -58,7 +58,7 @@
         "startDate": "2018",
         "endDate": "2024",
         "score": "3.99",
-        "courses": ["Artificial Intelligence", "Mathematical Modeling", "Electromagnetic Theory", "Quantum Mechanics", "Statistical Mechanics"]
+        "courses": ["Artificial Intelligence", "Mathematical Modeling", "Abstract Algebra", "Electromagnetic Theory", "Quantum Mechanics", "Statistical Mechanics"]
       }
   ],
   "work": [
@@ -92,6 +92,12 @@
     }
   ],
   "awards": [
+      {
+        "title": "R&D 100 Award for Materials Learning Algorithms project (contributor)",
+        "date": 2023,
+        "awarder": "R&D World",
+        "url": "https://www.rdworldonline.com/rd-100-winners-for-2023-are-announced-2/"
+      },
       {
         "title": "NSF Graduate Research Fellowship",
         "date": 2020,
@@ -238,10 +244,10 @@
           "startDate": "2023"    
         },
         {
-          "name": "Structure Complements: A New Materials Taxonomy",
+          "name": "Decoratypes: A New Materials Taxonomy",
           "highlights": [
-            "Generalized the concept of anti-structures to include \\(n\\)-ary compounds, termed structure complements (SCs)",
-            "Created a high-throughput identification workflow and screened >80,000 structures to identify and classify SC networks"
+            "Generalized the concept of anti-structures to include \\(n\\)-ary compounds and arbitrary site-based properties, termed decoratypes",
+            "Created a high-throughput identification workflow and screened >80,000 structures to identify and classify decoratype families"
           ],
           "summary": "Northwestern University",
           "startDate": "2023"
@@ -316,7 +322,7 @@
         "position": "Curriculum Developer, Mentor",
         "organization": "Coding Club &ensp;|&ensp; Pedersen-McCormick Boys and Girls Club",
         "startDate": 2020,
-        "endDate": "Present",
+        "endDate": "2022",
         "url": "https://github.com/kyledmiller/coding-club/tree/master",
         "highlights": [
           "Developed intermediate and advanced Python lessons and projects for high school-age students",
