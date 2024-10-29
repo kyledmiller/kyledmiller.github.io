@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info:
-  
+
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false #true # includes a list of papers marked as "selected={true}"
@@ -59,7 +59,7 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 ### Current Work
 
-<img src="assets/img/logo_citrine.png" alt="Citrine Informatics logo"   style="width: 67px; float: left; margin-right: 7px; margin-bottom: 10px; margin-top: 10px;">
+<img src="assets/img/logo_citrine.png" alt="Citrine Informatics logo"   style="width: 74px; float: left; margin-right: 7px; margin-bottom: 10px; margin-top: 10px;">
 
 **Research Scientist** @ *[Citrine Informatics](https://citrine.io/), [External Research Department](https://citrine.io/resources/research/)*\\
 &nbsp;&nbsp;⇒ Developing sequential learning workflow for design of durable nuclear waste forms\\
