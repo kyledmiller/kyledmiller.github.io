@@ -2,18 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: ML+DFT for materials design and discovery &ensp;|&ensp; PhD Candidate &ensp;|&ensp; Rondinelli Group
+subtitle: Materials informatics ⇐ Multi-institution government grants &ensp;|&ensp; Research Scientist &ensp;|&ensp; Citrine Informatics
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>PhD anticipated Summer 2024</p>
-    <p>Materials Science & Engineering</p> 
-    <p>Northwestern University</p>
-    <p>Evanston, IL, USA</p>
-
+  more_info:
+  
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false #true # includes a list of papers marked as "selected={true}"
@@ -56,25 +52,34 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 </div> -->
 
 ### Background
+- PhD. in Materials Science and Engineering @ *Northwestern University*
 - B.S. in Physics, Mathematics @ *University of Puget Sound*
 - Summer REU in perovskite synthesis @ *University of Minnesota*
 - Summer REU in molecular dynamics @ *Boise State University*
 
 ### Current Work
 
-<img src="assets/img/logo_nu.png"   alt="NU logo"           style="width: 30px; float: left; margin-right: 7px; margin-bottom: 15px; margin-top: 15px;">
-<img src="assets/img/logo_mtdg.png" alt="MTDG logo"         style="width: 30px; float: left; margin-right: 10px; margin-bottom: 15px; margin-top: 15px;">
+<img src="assets/img/logo_citrine.png" alt="Citrine Informatics logo"   style="width: 67px; float: left; margin-right: 7px; margin-bottom: 10px; margin-top: 10px;">
 
-**NSF Graduate Research Fellow** @ *Northwestern University, [MTD Group](https://mtd.mccormick.northwestern.edu/)*\\
-&nbsp;&nbsp;⇒ Discovering and tuning ferroelectric materials\\
-&nbsp;&nbsp;⇒ Developing design rules for metal-insulator transition materials
+**Research Scientist** @ *[Citrine Informatics](https://citrine.io/), [External Research Department](https://citrine.io/resources/research/)*\\
+&nbsp;&nbsp;⇒ Developing sequential learning workflow for design of durable nuclear waste forms\\
+&nbsp;&nbsp;⇒ Managing ongoing projects & writing proposals for multi-institution interdisciplinary government grants
 
-<img src="assets/img/logo_sandia.png" alt="Sandia logo"     style="width: 30px; float: left; margin-right: 7px; margin-bottom: 10px; margin-top: 10px;">
-<img src="assets/img/logo_mala.png"   alt="MALA logo"       style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
+<img src="assets/img/logo_sandia.png" alt="Sandia logo"                 style="width: 30px; float: left; margin-right: 7px; margin-bottom: 10px; margin-top: 10px;">
+<img src="assets/img/logo_mala.png"   alt="MALA logo"                   style="width: 30px; float: left; margin-right: 10px; margin-bottom: 10px; margin-top: 10px;">
 
 **Computational materials intern** @ *Sandia National Laboratories*\\
 &nbsp;&nbsp;⇒ Building neural network surrogate models for atomistic simulation\\
 &nbsp;&nbsp;⇒ Contributing to the [Materials Learning Algorithms (MALA) framework ](https://github.com/mala-project/mala)
+
+### Recent Work
+
+<img src="assets/img/logo_nu.png"   alt="NU logo"                       style="width: 30px; float: left; margin-right: 7px; margin-bottom: 15px; margin-top: 15px;">
+<img src="assets/img/logo_mtdg.png" alt="MTDG logo"                     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 15px; margin-top: 15px;">
+
+**NSF Graduate Research Fellow** @ *Northwestern University, [MTD Group](https://mtd.mccormick.northwestern.edu/)*\\
+&nbsp;&nbsp;⇒ Discovering and tuning ferroelectric materials\\
+&nbsp;&nbsp;⇒ Developing design rules for metal-insulator transition materials
 
 
 <!-- <div style="display: flex;">

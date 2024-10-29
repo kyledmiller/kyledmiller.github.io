@@ -63,20 +63,17 @@
   ],
   "work": [
     {
-      "name": "Northwestern University &ensp;|&ensp; Materials Theory and Design Group",
-      "position": "Graduate Research Fellow",
-      "url": "https://mtd.mccormick.northwestern.edu/",
-      "startDate": "2018",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": [
-        "Leveraged machine learning and first-principles methods to study structure-property relationships in inorganic materials",
-        "Developed workflow tools to improve group productivity",
-        "Mentored and developed onboarding/training material for younger graduate students",
-        "Wrote peer-reviewed publications, grants, and referee feedback on reviewed papers",
-        "Attended conferences, hackathons, and seminars to absorb and disseminate knowledge of the field"
-      ]
-    },
+        "name": "Citrine Informatics &ensp;|&ensp; External Research Department",
+        "position": "Research Scientist",
+        "url": "https://citrine.io/resources/research/",
+        "startDate": "2024",
+        "endDate": "Present",
+        "summary": "",
+        "highlights": [
+          "Developed sequential learning workflow for design and discovery of durable nuclear waste forms",
+          "Managed ongoing multi-institution government grant project"
+        ]
+      },
     {
       "name": " Sandia National Laboratories &ensp;|&ensp; Computational Materials Division",
         "position": "Graduate R&D Intern",
@@ -89,7 +86,22 @@
             "Designed active learning algorithm to overcome redundancy in massive data sets and improve edge case learning",
             "Maintained >95% accuracy on defective semiconductors with a 95% reduction in the training set size"
           ]
-    }
+    },
+    {
+        "name": "Northwestern University &ensp;|&ensp; Materials Theory and Design Group",
+        "position": "Graduate Research Fellow",
+        "url": "https://mtd.mccormick.northwestern.edu/",
+        "startDate": "2018",
+        "endDate": "2024",
+        "summary": "",
+        "highlights": [
+          "Leveraged machine learning and first-principles methods to study structure-property relationships in inorganic materials",
+          "Developed workflow tools to improve group productivity",
+          "Mentored and developed onboarding/training material for younger graduate students",
+          "Wrote peer-reviewed publications, grants, and referee feedback on reviewed papers",
+          "Attended conferences, hackathons, and seminars to absorb and disseminate knowledge of the field"
+        ]
+      },
   ],
   "awards": [
       {
