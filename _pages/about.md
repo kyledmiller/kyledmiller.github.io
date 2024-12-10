@@ -72,11 +72,10 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 **Computational materials intern** @ *Sandia National Laboratories*\\
 &nbsp;&nbsp;⇒ Building neural network surrogate models for atomistic simulation\\
-&nbsp;&nbsp;⇒ Contributing to the [Materials Learning Algorithms (MALA) framework ](https://github.com/mala-project/mala)
+&nbsp;&nbsp;⇒ Contributing to the [Materials Learning Algorithms (MALA) framework ](https://github.com/mala-project/mala)\\ 
 
-
-<img src="assets/img/logo_nu.png"   alt="NU logo"                       style="width: 30px; float: left; margin-right: 7px; margin-bottom: 70px; margin-top: 15px;">
-<img src="assets/img/logo_mtdg.png" alt="MTDG logo"                     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 70px; margin-top: 15px;">
+<img src="assets/img/logo_nu.png"   alt="NU logo"                       style="width: 30px; float: left; margin-right: 7px; margin-bottom: 70px; margin-top: 10px;">
+<img src="assets/img/logo_mtdg.png" alt="MTDG logo"                     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 70px; margin-top: 10px;">
 
 **NSF Graduate Research Fellow** @ *Northwestern University, [MTD Group](https://mtd.mccormick.northwestern.edu/)*\\
 &nbsp;&nbsp;⇒ Discovering and tuning ferroelectric materials\\
