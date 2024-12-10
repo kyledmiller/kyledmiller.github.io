@@ -66,6 +66,8 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 &nbsp;  
 
+&nbsp;  
+
 ### Recent Work
 
 <img src="assets/img/logo_sandia.png" alt="Sandia logo"                 style="width: 30px; float: left; margin-right: 7px; margin-bottom: 30px; margin-top: 10px;">
