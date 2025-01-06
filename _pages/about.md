@@ -59,7 +59,7 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 ### Current Work
 
-<img src="assets/img/logo_citrine.png" alt="Citrine Informatics logo"   style="width: 74px; float: left; margin-right: 7px; margin-bottom: 0px; margin-top: 0px;">
+<img src="assets/img/logo_citrine.png" alt="Citrine Informatics logo"   style="width: 74px; float: left; margin-right: 7px; margin-bottom: 10px; margin-top: 0px;">
 **Research Scientist** @ *[Citrine Informatics](https://citrine.io/), [External Research Department](https://citrine.io/resources/research/)*\\
 &nbsp;&nbsp;⇒ Developing sequential learning workflow for design of durable nuclear waste forms\\
 &nbsp;&nbsp;⇒ Managing ongoing projects & writing proposals for multi-institution interdisciplinary government grants
@@ -70,8 +70,8 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 ### Recent Work
 
-<img src="assets/img/logo_sandia.png" alt="Sandia logo"                 style="width: 30px; float: left; margin-right: 7px; margin-bottom: 30px; margin-top: 10px;">
-<img src="assets/img/logo_mala.png"   alt="MALA logo"                   style="width: 30px; float: left; margin-right: 10px; margin-bottom: 30px; margin-top: 10px;">
+<img src="assets/img/logo_sandia.png" alt="Sandia logo"                 style="width: 30px; float: left; margin-right: 7px; margin-bottom: 35px; margin-top: 10px;">
+<img src="assets/img/logo_mala.png"   alt="MALA logo"                   style="width: 30px; float: left; margin-right: 10px; margin-bottom: 35px; margin-top: 10px;">
 
 **Computational materials intern** @ *Sandia National Laboratories*\\
 &nbsp;&nbsp;⇒ Building neural network surrogate models for atomistic simulation\\
