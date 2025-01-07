@@ -66,7 +66,7 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 &nbsp;  
 
-&nbsp;  
+<!-- &nbsp;   -->
 
 ### Recent Work
 
