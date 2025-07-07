@@ -72,16 +72,16 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 ### Recent Work
 
-<img src="assets/img/logo_sandia.png" alt="Sandia logo"                 style="width: 30px; float: left; margin-right: 7px; margin-bottom: 35px; margin-top: 10px;">
-<img src="assets/img/logo_mala.png"   alt="MALA logo"                   style="width: 30px; float: left; margin-right: 10px; margin-bottom: 35px; margin-top: 10px;">
+<img src="assets/img/logo_sandia.png" alt="Sandia logo"                 style="width: 30px; float: left; margin-right: 7px; margin-bottom: 0px; margin-top: 10px;">
+<img src="assets/img/logo_mala.png"   alt="MALA logo"                   style="width: 30px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 10px;">
 
 **Computational materials intern** @ *Sandia National Laboratories*\\
 &nbsp;&nbsp;⇒ Building neural network surrogate models for atomistic simulation\\
 &nbsp;&nbsp;⇒ Contributing to the [Materials Learning Algorithms (MALA) framework ](https://github.com/mala-project/mala)  
 &nbsp;  
 
-<img src="assets/img/logo_nu.png"   alt="NU logo"                       style="width: 30px; float: left; margin-right: 7px; margin-bottom: 30px; margin-top: 5px;">
-<img src="assets/img/logo_mtdg.png" alt="MTDG logo"                     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 30px; margin-top: 5px;">
+<img src="assets/img/logo_nu.png"   alt="NU logo"                       style="width: 30px; float: left; margin-right: 7px; margin-bottom: 0px; margin-top: 5px;">
+<img src="assets/img/logo_mtdg.png" alt="MTDG logo"                     style="width: 30px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 5px;">
 
 **NSF Graduate Research Fellow** @ *Northwestern University, [MTD Group](https://mtd.mccormick.northwestern.edu/)*\\
 &nbsp;&nbsp;⇒ Discovering and tuning ferroelectric materials\\
