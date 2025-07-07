@@ -70,8 +70,10 @@
         "endDate": "Present",
         "summary": "",
         "highlights": [
-          "Developed sequential learning workflow for design and discovery of durable nuclear waste forms",
-          "Managed ongoing multi-institution government grant project"
+          "Develop sequential learning workflow for design and discovery of durable nuclear waste forms, cold-sprayed metals and ceramics, and fusion alloys",
+          "Manage ongoing projects & write proposals for multi-institution interdisciplinary government grants",
+          "Present at conferences to disseminate research and build collaborator network",
+          "Advise customer teams on how to best leverage the Citrine Platform for their particular design challenges"
         ]
     },
     {
@@ -79,7 +81,7 @@
         "position": "Graduate R&D Intern",
         "url": "https://www.sandia.gov/",
         "startDate": "2022",
-        "endDate": "Present",
+        "endDate": "2024",
         "highlights": [
             "Developed data shuffling method for Materials Learning Algorithms (MALA)",
             "Expanded MALA neural network surrogate models from pure elements to binary compounds",
@@ -381,19 +383,19 @@
   ],
   "references": [
     {
+      "name": "Dr. James Saal",
+        "icon": "fa-solid fa-briefcase",
+        "reference": "Director of External Research &ensp;|&ensp; Citrine Informatics &ensp;|&ensp; Dr. Saal is the supervisor of my research team at Citrine."
+    },
+    {
       "name": "Prof. James M. Rondinelli",
       "icon": "fa-solid fa-graduation-cap",
-      "reference": "Walter Dill Scott Professor of Materials Science and Engineering &ensp;|&ensp; Northwestern University &ensp;|&ensp; Prof. Rondinelli has been my Ph.D. advisor since August 2018."
+      "reference": "Walter Dill Scott Professor of Materials Science and Engineering &ensp;|&ensp; Northwestern University &ensp;|&ensp; Prof. Rondinelli was my Ph.D. advisor from August 2018 to July 2024."
     },
     {
       "name": "Dr. Normand A. Modine",
       "icon": "fa-solid fa-flask-vial",
-      "reference": "Research Scientist in Computational Materials and Data Science &ensp;|&ensp; Sandia National Laboratories &ensp;|&ensp; Dr. Modine has been my research internship advisor since August 2022."
-    },
-    {
-      "name": "Prof. Ram Seshadri",
-        "icon": "fa-solid fa-handshake-simple",
-        "reference": "Fred and Linda R. Wudl Professor of Materials Science &ensp;|&ensp; University of California, Santa Barbara &ensp;|&ensp; Prof. Seshadri is on my dissertation committee and we collaborated on two interdisciplinary publications."
+      "reference": "Research Scientist in Computational Materials and Data Science &ensp;|&ensp; Sandia National Laboratories &ensp;|&ensp; Dr. Modine was my research internship advisor from August 2022 to July 2024."
     }
   ]
 }
