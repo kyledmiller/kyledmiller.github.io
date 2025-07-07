@@ -72,7 +72,7 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 ### Recent Work
 
-<img src="assets/img/logo_sandia.png" alt="Sandia logo"                 style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 15px;">
+<img src="assets/img/logo_sandia.png" alt="Sandia logo"                 style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 12px;">
 <!-- <img src="assets/img/logo_mala.png"   alt="MALA logo"                   style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 10px;"> -->
 
 **Graduate Research Intern** @ *Sandia National Laboratories*\\
