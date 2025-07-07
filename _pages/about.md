@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Materials informatics ⇐ Multi-institution government grants &ensp;|&ensp; Research Scientist &ensp;|&ensp; Citrine Informatics
+subtitle: Materials informatics research ⇐ Multi-institution government grants &ensp;|&ensp; Research Scientist @ *[Citrine Informatics](https://citrine.io/)*
 
 profile:
   align: right
