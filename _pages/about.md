@@ -59,7 +59,7 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 ### Current Work
 
-<img src="assets/img/logo_citrine.png" alt="Citrine Informatics logo"   style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 5px;">
+<img src="assets/img/logo_citrine.png" alt="Citrine Informatics logo"   style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 2px;">
 **Research Scientist** @ *[Citrine Informatics](https://citrine.io/), [External Research Department](https://citrine.io/resources/research/)*\\
 ⇒ Developing sequential learning workflow for design of durable nuclear waste forms, cold-sprayed metals and ceramics, and fusion alloys\\
 ⇒ Managing ongoing projects & writing proposals for multi-institution interdisciplinary government grants\\
@@ -72,7 +72,7 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 ### Recent Work
 
-<img src="assets/img/logo_sandia.png" alt="Sandia logo"                 style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 10px;">
+<img src="assets/img/logo_sandia.png" alt="Sandia logo"                 style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 15px;">
 <!-- <img src="assets/img/logo_mala.png"   alt="MALA logo"                   style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 10px;"> -->
 
 **Graduate Research Intern** @ *Sandia National Laboratories*\\
@@ -80,7 +80,7 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 ⇒ Contributing to the [Materials Learning Algorithms (MALA) framework ](https://github.com/mala-project/mala)  
 &nbsp;  
 
-<img src="assets/img/logo_nu.png"   alt="NU logo"                       style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 5px;">
+<img src="assets/img/logo_nu.png"   alt="NU logo"                       style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 2px;">
 <!-- <img src="assets/img/logo_mtdg.png" alt="MTDG logo"                     style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 5px;"> -->
 
 **NSF Graduate Research Fellow** @ *Northwestern University, [MTD Group](https://mtd.mccormick.northwestern.edu/)*\\
