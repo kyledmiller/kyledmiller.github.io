@@ -162,6 +162,16 @@
   ],
   "publications": [
     {
+      "name": "Glass-Bonded Monazite Waste Forms for Lanthanide and Actinide Immobilization",
+      "authors": ["M. Peterson", "B. J. Riley", "X. Lu", "K. H. Yano", "S. Mukhopadhyay", "I. I. Leavy", "E. K. Nickerson", "R. J. Seffens", "J. C. Du", "K. D. Miller", "J. E. Saal"],
+      "publisher": "ACS Omega",
+      "releaseDate": 2025,
+      "volume": 30,
+      "issue": 10,
+      "page_start": 33524,
+      "url": "https://doi.org/10.1021/acsomega.5c03993"
+    },
+    {
       "name": "Testing the Limits of the Global Instability Index",
       "authors": ["K. D. Miller", "J. M. Rondinelli"],
       "publisher": "Applied Physics Letters Materials",
