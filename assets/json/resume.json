@@ -162,6 +162,23 @@
   ],
   "publications": [
     {
+      "name": "Decoratypes: An Extensible Crystal Taxonomy for Machine Learning-Guided Materials Discovery",
+      "authors": ["K. D. Miller", "M. Campbell", "D. Puggioni", "J. M. Rondinelli"],
+      "publisher": "Physical Review Materials",
+      "releaseDate": 2025,
+      "volume": 9,
+      "issue": 10,
+      "page_start": 125146,
+      "url": "https://doi.org/10.1103/14yr-q3z1"
+    },
+    {
+      "name": "Revealing the Structure–Property Relationships of Nd\\(_2\\)O\\(_3\\)-Containing Alkali Iron Phosphate Glasses from Molecular Dynamics Simulations.",
+      "authors": ["J. Kalahe", "X. Lu", "K. D. Miller", "M. Peterson", "B. J. Riley", "J. D. Vienna", "J. E. Saal", "J. Du"],
+      "publisher": "Chemistry of Materials",
+      "releaseDate": 2025,
+      "url": "https://doi.org/10.1021/acs.chemmater.5c01412"
+    },
+    {
       "name": "Glass-Bonded Monazite Waste Forms for Lanthanide and Actinide Immobilization",
       "authors": ["M. Peterson", "B. J. Riley", "X. Lu", "K. H. Yano", "S. Mukhopadhyay", "I. I. Leavy", "E. K. Nickerson", "R. J. Seffens", "J. C. Du", "K. D. Miller", "J. E. Saal"],
       "publisher": "ACS Omega",
@@ -265,7 +282,8 @@
             "Characterized strain-dependent ferroelectricity in 7 novel candidates"
           ],
           "summary": "Northwestern University",
-          "startDate": "2023"    
+          "startDate": "2023",   
+          "endDate": "2025" 
         },
         {
           "name": "Decoratypes: A New Materials Taxonomy",
@@ -274,7 +292,8 @@
             "Created a high-throughput identification workflow and screened >80,000 structures to identify and classify decoratype families"
           ],
           "summary": "Northwestern University",
-          "startDate": "2023"
+          "startDate": "2023",
+          "endDate": "2025"
         },
     
         {
@@ -339,10 +358,11 @@
         "startDate": 2022,
         "url": "",
         "highlights": [
-            "2022 &ensp;|&ensp; Chemistry of Materials &ensp;|&ensp; 1 article",
-            "2023 &ensp;|&ensp; Communications Physics &ensp;|&ensp; 1 article",
-            "2024 &ensp;|&ensp; APL Machine Learning &ensp;|&ensp; 1 article",
-            "2025 &ensp;|&ensp; Scientific Reports &ensp;|&ensp; 1 article"
+            "2025 &ensp;|&ensp; npj Computational Materials",
+            "2025 &ensp;|&ensp; Scientific Reports",
+            "2024 &ensp;|&ensp; APL Machine Learning",
+            "2023 &ensp;|&ensp; Communications Physics",
+            "2022 &ensp;|&ensp; Chemistry of Materials",
           ]
       },
       {
@@ -390,22 +410,22 @@
           "Helped run a support stand providing legal resources and humanitarian aid for visitors to the detention center"
         ]
       }
-  ],
-  "references": [
-    {
-      "name": "Dr. James Saal",
-        "icon": "fa-solid fa-briefcase",
-        "reference": "Director of External Research &ensp;|&ensp; Citrine Informatics &ensp;|&ensp; Dr. Saal is the supervisor of my research team at Citrine."
-    },
-    {
-      "name": "Prof. James M. Rondinelli",
-      "icon": "fa-solid fa-graduation-cap",
-      "reference": "Walter Dill Scott Professor of Materials Science and Engineering &ensp;|&ensp; Northwestern University &ensp;|&ensp; Prof. Rondinelli was my Ph.D. advisor from August 2018 to July 2024."
-    },
-    {
-      "name": "Dr. Normand A. Modine",
-      "icon": "fa-solid fa-flask-vial",
-      "reference": "Research Scientist in Computational Materials and Data Science &ensp;|&ensp; Sandia National Laboratories &ensp;|&ensp; Dr. Modine was my research internship advisor from August 2022 to July 2024."
-    }
   ]
 }
+  // "references": [
+  //   {
+  //     "name": "Dr. James Saal",
+  //       "icon": "fa-solid fa-briefcase",
+  //       "reference": "Director of External Research &ensp;|&ensp; Citrine Informatics &ensp;|&ensp; Dr. Saal is the supervisor of my research team at Citrine."
+  //   },
+  //   {
+  //     "name": "Prof. James M. Rondinelli",
+  //     "icon": "fa-solid fa-graduation-cap",
+  //     "reference": "Walter Dill Scott Professor of Materials Science and Engineering &ensp;|&ensp; Northwestern University &ensp;|&ensp; Prof. Rondinelli was my Ph.D. advisor from August 2018 to July 2024."
+  //   },
+  //   {
+  //     "name": "Dr. Normand A. Modine",
+  //     "icon": "fa-solid fa-flask-vial",
+  //     "reference": "Research Scientist in Computational Materials and Data Science &ensp;|&ensp; Sandia National Laboratories &ensp;|&ensp; Dr. Modine was my research internship advisor from August 2022 to July 2024."
+  //   }
+  // ]
