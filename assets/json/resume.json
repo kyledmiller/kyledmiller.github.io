@@ -5,7 +5,7 @@
     "image": "",
     "email": "kyledmiller@duck.com",
     "url": "https://kyledmiller.github.io",
-    "summary": "Inquisitive research scientist with 7 publications and 6+ years of experience using first-principles calculation, informatics, and machine learning to solve materials science problems. Passionate about sustainability, mentoring, and explainable models. Excels in grant management, scientific communication, and integrated ML+simulation workflow development",
+    "summary": "Inquisitive research scientist with 7+ years of experience using first-principles calculation, informatics, and machine learning to solve materials science problems. Passionate about sustainability, data visualization, and explainable models. Excels in scientific communication, proposal development, and integrated ML-simulation-experiment workflow development.",
     "location": {
       "postalCode": "IL 60202",
       "city": "Evanston",
@@ -71,7 +71,7 @@
         "summary": "",
         "highlights": [
           "Develop sequential learning workflow for design and discovery of durable nuclear waste forms, cold-sprayed metals and ceramics, and fusion alloys",
-          "Manage ongoing projects & write proposals for multi-institution interdisciplinary government grants",
+          "Manage ongoing projects & write proposals for multi-institution, interdisciplinary federal grants",
           "Present at conferences to disseminate research and build collaborator network",
           "Advise customer teams on how to best leverage the Citrine Platform for their particular design challenges"
         ]

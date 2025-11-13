@@ -60,7 +60,7 @@ Materials design and discovery &ensp;|&ensp; Sequential/active learning &ensp;|&
 
 ### Current Work
 
-<img src="assets/img/logo_citrine.png" alt="Citrine Informatics logo"   style="width: 20px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 2px;">
+<img src="assets/img/logo_citrine.png" alt="Citrine Informatics logo"   style="width: 20px; float: left; margin-right: 8px; margin-bottom: 0px; margin-top: 2px;">
 **Research Scientist** @ *[Citrine Informatics](https://citrine.io/), [External Research Department](https://citrine.io/resources/research/)*\\
 ⇒ Developing sequential learning workflow for design of durable nuclear waste forms, cold-sprayed metals and ceramics, and fusion alloys\\
 ⇒ Managing ongoing projects & writing proposals for multi-institution interdisciplinary government grants\\
@@ -73,7 +73,7 @@ Materials design and discovery &ensp;|&ensp; Sequential/active learning &ensp;|&
 
 ### Recent Work
 
-<img src="assets/img/logo_sandia.png" alt="Sandia logo"                 style="width: 20px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 12px;">
+<img src="assets/img/logo_sandia.png" alt="Sandia logo"                 style="width: 20px; float: left; margin-right: 9px; margin-bottom: 0px; margin-top: 12px;">
 <!-- <img src="assets/img/logo_mala.png"   alt="MALA logo"                   style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 10px;"> -->
 
 **Graduate Research Intern** @ *Sandia National Laboratories*\\
