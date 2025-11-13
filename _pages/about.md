@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Materials informatics research ⇐ Multi-institution government grants &ensp;|&ensp; Research Scientist @ Citrine Informatics
+subtitle: Materials informatics research ⇐ Multi-institution federal grants &ensp;|&ensp; Research Scientist @ Citrine Informatics
 
 profile:
   align: right
@@ -21,14 +21,15 @@ social: false # includes social icons at the bottom of the page
  -->
 
 ### Keywords
-Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for atomic simulation &ensp;|&ensp; Structure-property relationships &ensp;|&ensp; Multiferroics &ensp;|&ensp; Metal-insulator transitions &ensp;|&ensp; Active learning &ensp;|&ensp; Explainable AI &ensp;|&ensp; Physics-informed models
- <!-- &ensp;|&ensp; Uncertainty quantification &ensp;|&ensp; Data visualization -->
+Materials design and discovery &ensp;|&ensp; Sequential/active learning &ensp;|&ensp; Explainable AI &ensp;|&ensp; Physics-informed models &ensp;|&ensp; Uncertainty quantification &ensp;|&ensp;  Structure-property relationships &ensp;|&ensp; Multiferroics
+ <!-- &ensp;|&ensp; Uncertainty quantification &ensp;|&ensp; Data visualization &ensp;|&ensp; Surrogate models for atomic simulation  -->
 
 
-### Motivation
-- I want to create **data-driven solutions for materials problems**. 
+### Summary
+- I create **data-driven solutions for materials problems**. 
 - I excel in **collaborative**, inquisitive environments. 
 - I prioritize **efficient communication** and **fast failure**.
+- I value mutual respect and **inclusive** practices.
 
 <!-- 
 
@@ -51,7 +52,7 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
   </p>
 </div> -->
 
-### Background
+### Education
 - PhD. in Materials Science and Engineering @ *Northwestern University*
 - B.S. in Physics, Mathematics @ *University of Puget Sound*
 - Summer REU in perovskite synthesis @ *University of Minnesota*
@@ -59,7 +60,7 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 ### Current Work
 
-<img src="assets/img/logo_citrine.png" alt="Citrine Informatics logo"   style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 2px;">
+<img src="assets/img/logo_citrine.png" alt="Citrine Informatics logo"   style="width: 20px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 2px;">
 **Research Scientist** @ *[Citrine Informatics](https://citrine.io/), [External Research Department](https://citrine.io/resources/research/)*\\
 ⇒ Developing sequential learning workflow for design of durable nuclear waste forms, cold-sprayed metals and ceramics, and fusion alloys\\
 ⇒ Managing ongoing projects & writing proposals for multi-institution interdisciplinary government grants\\
@@ -72,7 +73,7 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 
 ### Recent Work
 
-<img src="assets/img/logo_sandia.png" alt="Sandia logo"                 style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 12px;">
+<img src="assets/img/logo_sandia.png" alt="Sandia logo"                 style="width: 20px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 12px;">
 <!-- <img src="assets/img/logo_mala.png"   alt="MALA logo"                   style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 10px;"> -->
 
 **Graduate Research Intern** @ *Sandia National Laboratories*\\
@@ -80,7 +81,7 @@ Autonomous materials design and discovery &ensp;|&ensp; Surrogate models for ato
 ⇒ Contributing to the [Materials Learning Algorithms (MALA) framework ](https://github.com/mala-project/mala)  
 &nbsp;  
 
-<img src="assets/img/logo_nu.png"   alt="NU logo"                       style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 2px;">
+<img src="assets/img/logo_nu.png"   alt="NU logo"                       style="width: 20px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 2px;">
 <!-- <img src="assets/img/logo_mtdg.png" alt="MTDG logo"                     style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 5px;"> -->
 
 **NSF Graduate Research Fellow** @ *Northwestern University, [MTD Group](https://mtd.mccormick.northwestern.edu/)*\\
