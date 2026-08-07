@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Materials informatics research ⇐ Multi-institution federal grants &ensp;|&ensp; Research Scientist @ Citrine Informatics
+subtitle: Research Scientist @ Citrine Informatics &ensp;|&ensp AI/ML + Materials ⇐ Collaborative research; 
 
 profile:
   align: right
@@ -62,7 +62,7 @@ Materials design and discovery &ensp;|&ensp; Sequential/active learning &ensp;|&
 
 <img src="assets/img/logo_citrine.png" alt="Citrine Informatics logo"   style="width: 20px; float: left; margin-right: 8px; margin-bottom: 0px; margin-top: 2px;">
 **Research Scientist** @ *[Citrine Informatics](https://citrine.io/), [External Research Department](https://citrine.io/resources/research/)*\\
-⇒ Developing sequential learning workflow for design of durable nuclear waste forms, cold-sprayed metals and ceramics, and fusion alloys\\
+⇒ Developing sequential learning workflows for design of durable nuclear waste forms, efficient catalysts, cold-sprayed metals and ceramics, and fusion alloys\\
 ⇒ Managing ongoing projects & writing proposals for multi-institution interdisciplinary government grants\\
 ⇒ Presenting at conferences to disseminate research and build collaborator network\\
 ⇒ Advising customer teams on how to best leverage the Citrine Platform for their particular design challenges
@@ -78,15 +78,15 @@ Materials design and discovery &ensp;|&ensp; Sequential/active learning &ensp;|&
 
 **Graduate Research Intern** @ *Sandia National Laboratories*\\
 ⇒ Building neural network surrogate models for atomistic simulation\\
-⇒ Contributing to the [Materials Learning Algorithms (MALA) framework ](https://github.com/mala-project/mala)  
+⇒ Implementing active learning and data preprocessing techniques for the [Materials Learning Algorithms (MALA) framework ](https://github.com/mala-project/mala)  
 &nbsp;  
 
 <img src="assets/img/logo_nu.png"   alt="NU logo"                       style="width: 20px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 2px;">
 <!-- <img src="assets/img/logo_mtdg.png" alt="MTDG logo"                     style="width: 25px; float: left; margin-right: 10px; margin-bottom: 0px; margin-top: 5px;"> -->
 
 **NSF Graduate Research Fellow** @ *Northwestern University, [MTD Group](https://mtd.mccormick.northwestern.edu/)*\\
-⇒ Discovering and tuning ferroelectric materials\\
-⇒ Developing design rules for metal-insulator transition materials
+⇒ Creating DFT+ML workflows for discovering and tuning ferroelectric materials\\
+⇒ Using first-principles calculation to design metal-insulator transition materials
 
 
 <!-- <div style="display: flex;">
