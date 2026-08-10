@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Scientist @ Citrine Informatics &ensp;|&ensp AI/ML + Materials ⇐ Collaborative research; 
+subtitle: Research Scientist @ Citrine Informatics &ensp;|&ensp; AI/ML + Materials ⇐ Collaborative research
 
 profile:
   align: right
