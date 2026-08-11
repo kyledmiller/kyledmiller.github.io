@@ -6,7 +6,7 @@ subtitle: Research Scientist @ Citrine Informatics &ensp;|&ensp; AI/ML + Materia
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: MRSSpring2026_talk_v4_cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
