@@ -7,6 +7,7 @@
     "url": "https://kyledmiller.github.io",
     "summary": "Inquisitive research scientist with 7+ years of experience using first-principles calculation, informatics, and machine learning to solve materials science problems. Passionate about sustainability, data visualization, and explainable models. Excels in scientific communication, proposal development, and integrated ML-simulation-experiment workflow development.",
     "location": {
+      "postalCode": "IL 60202",
       "city": "Evanston",
       "countryCode": "USA",
       "region": "Illinois"
@@ -54,9 +55,9 @@
       "url": "https://www.mccormick.northwestern.edu/materials-science/",
       "area": "Materials Science and Engineering",
       "studyType": "Doctor of Philosophy",
-      "startDate": 2018,
-      "endDate": 2024,
-      "score": 3.89,
+      "startDate": "2018",
+      "endDate": "2024",
+      "score": "3.89",
       "courses": [
         "Computational Materials Science",
         "Machine Learning",
@@ -73,9 +74,9 @@
       "url": "https://www.pugetsound.edu/",
       "area": "Physics, Mathematics",
       "studyType": "Bachelor of Science",
-      "startDate": 2018,
-      "endDate": 2024,
-      "score": 3.99,
+      "startDate": "2018",
+      "endDate": "2024",
+      "score": "3.99",
       "courses": [
         "Artificial Intelligence",
         "Mathematical Modeling",
@@ -91,7 +92,7 @@
       "name": "Citrine Informatics &ensp;|&ensp; External Research Department",
       "position": "Research Scientist",
       "url": "https://citrine.io/resources/research/",
-      "startDate": 2024,
+      "startDate": "2024",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -105,8 +106,8 @@
       "name": " Sandia National Laboratories &ensp;|&ensp; Computational Materials Division",
       "position": "Graduate R&D Intern",
       "url": "https://www.sandia.gov/",
-      "startDate": 2022,
-      "endDate": 2024,
+      "startDate": "2022",
+      "endDate": "2024",
       "highlights": [
         "Developed data shuffling method for Materials Learning Algorithms (MALA)",
         "Expanded MALA neural network surrogate models from pure elements to binary compounds",
@@ -118,8 +119,8 @@
       "name": "Northwestern University &ensp;|&ensp; Materials Theory and Design Group",
       "position": "Graduate Research Fellow",
       "url": "https://mtd.mccormick.northwestern.edu/",
-      "startDate": 2018,
-      "endDate": 2024,
+      "startDate": "2018",
+      "endDate": "2024",
       "summary": "",
       "highlights": [
         "Leveraged machine learning and first-principles methods to study structure-property relationships in inorganic materials",
@@ -392,14 +393,14 @@
   "certificates": [
     {
       "name": "Management for Scientists and Engineers",
-      "date": 2023,
+      "date": "2023",
       "issuer": "Kellogg School of Management, Northwestern University",
       "url": "https://www.kellogg.northwestern.edu/programs/management-scientists-engineers.aspx",
       "icon": "fa-solid fa-briefcase"
     },
     {
       "name": "Science Communication",
-      "date": 2020,
+      "date": "2020",
       "issuer": "Northwestern University",
       "url": "https://ciera.northwestern.edu/programs/scope/",
       "icon": "fa-solid fa-comments"
@@ -413,8 +414,8 @@
         "Characterized strain-dependent ferroelectricity in 7 novel candidates"
       ],
       "summary": "Northwestern University",
-      "startDate": 2023,
-      "endDate": 2025
+      "startDate": "2023",
+      "endDate": "2025"
     },
     {
       "name": "Decoratypes: A New Materials Taxonomy",
@@ -423,8 +424,8 @@
         "Created a high-throughput identification workflow and screened >80,000 structures to identify and classify decoratype families"
       ],
       "summary": "Northwestern University",
-      "startDate": 2023,
-      "endDate": 2025
+      "startDate": "2023",
+      "endDate": "2025"
     },
     {
       "name": "Generalized Tolerance Factor for Inorganic Crystals",
@@ -434,8 +435,8 @@
         "Attended hands-on workshops to hone my skills in design and tuning of machine learning models and curation of data"
       ],
       "summary": "Solid-State Materials Chemistry and Data Science Hackathon",
-      "startDate": 2023,
-      "endDate": 2023
+      "startDate": "2023",
+      "endDate": "2023"
     },
     {
       "name": "Testing the Limits of the Global Instability Index (GII)",
@@ -445,8 +446,8 @@
         "Overhauled understanding of GII as an absolute metric for structural stability, proposing new guidelines for effective use"
       ],
       "summary": "Northwestern University",
-      "startDate": 2022,
-      "endDate": 2023
+      "startDate": "2022",
+      "endDate": "2023"
     },
     {
       "name": "Carrier-Induced Metal-Insulator Transition in Trirutile MgTa\\(_2\\)O\\(_6\\)",
@@ -456,8 +457,8 @@
         "Assessed the similarities and differences in the transition-driving forces between the trirutile and rutile structures"
       ],
       "summary": "Northwestern University",
-      "startDate": 2019,
-      "endDate": 2021
+      "startDate": "2019",
+      "endDate": "2021"
     },
     {
       "name": "Structural Signatures of the Insulator-to-Metal Transition in BaCo\\(_{1−x}\\)Ni\\(_x\\)S\\(_2\\)",
@@ -467,8 +468,8 @@
         "Presented the new ground state structure compatible with previously unexplained distortions"
       ],
       "summary": "Northwestern University",
-      "startDate": 2019,
-      "endDate": 2020
+      "startDate": "2019",
+      "endDate": "2020"
     },
     {
       "name": "High-throughput molecular simulations into the morphology of P3HT:PCBM blends",
@@ -477,8 +478,8 @@
         "Mapped morphology phase diagram using radial distribution, clustering algorithms, and simulated X-ray scattering"
       ],
       "summary": "Boise State University",
-      "startDate": 2017,
-      "endDate": 2017
+      "startDate": "2017",
+      "endDate": "2017"
     }
   ],
   "volunteer": [
@@ -488,14 +489,19 @@
       "startDate": 2022,
       "url": "",
       "highlights": [
-        "npj Computational Materials, Scientific Reports, APL Machine Learning, Communications Physics, Chemistry of Materials, International Journal of Applied Glass Science"
+        "2026 &ensp;|&ensp; International Journal of Applied Glass Science",
+        "2025 &ensp;|&ensp; npj Computational Materials",
+        "2025 &ensp;|&ensp; Scientific Reports",
+        "2024 &ensp;|&ensp; APL Machine Learning",
+        "2023 &ensp;|&ensp; Communications Physics",
+        "2022 &ensp;|&ensp; Chemistry of Materials"
       ]
     },
     {
       "position": "Curriculum Developer, Mentor",
       "organization": "Coding Club &ensp;|&ensp; Pedersen-McCormick Boys and Girls Club",
       "startDate": 2020,
-      "endDate": 2022,
+      "endDate": "2022",
       "url": "https://github.com/kyledmiller/coding-club/tree/master",
       "highlights": [
         "Developed intermediate and advanced Python lessons and projects for high school-age students",
@@ -532,8 +538,8 @@
       "url": "",
       "highlights": [
         "Raised over $5,000 to help fund cancer treatment for a detained person",
-        "Organized events for awareness and charity to support families of detained people",
-        "Helped run a support stand providing legal resources and humanitarian aid for visitors to the Northwest Detention Center"
+        "Organized events for awareness and charity to support local immigrants",
+        "Helped run a support stand providing legal resources and humanitarian aid for visitors to the detention center"
       ]
     }
   ]
