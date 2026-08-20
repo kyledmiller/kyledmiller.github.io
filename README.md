@@ -1,19 +1,21 @@
 # Kyle Daniel Miller
 
-This is the personal page of Kyle Miller, a researcher working at the intersection of AI/ML and materials.
+This is the personal page of Kyle Miller, a researcher working at the intersection of AI, ML, and materials science.
 
 ### Keywords
 Materials design and discovery &ensp;|&ensp; Sequential/active learning &ensp;|&ensp; Explainable AI &ensp;|&ensp; Physics-informed models &ensp;|&ensp; Uncertainty quantification &ensp;|&ensp;  Structure-property relationships &ensp;|&ensp; Density functional theory (DFT) &ensp;|&ensp; Ferroelectric &ensp;|&ensp; Metal-insulator transition
 
 ### Current Work
 
-<img src="assets/img/logo_citrine.png" alt="Citrine Informatics logo"   style="width: 20px; float: left; margin-right: 8px; margin-bottom: 0px; margin-top: 2px;">
-**Research Scientist** @ *[Citrine Informatics](https://citrine.io/), [External Research Department](https://citrine.io/resources/research/)*\\
-⇒ Designing AI/ML-driven development workflows for nuclear waste forms, catalysts, magnets, superconductors, and printed alloys\\
-⇒ Managing ongoing projects & writing proposals for multi-institution interdisciplinary government grants\\
-⇒ Presenting at conferences to disseminate research and build collaborator network\\
-⇒ Advising customer teams on how to best leverage the Citrine Platform for their particular design challenges
+Research Scientist @ *[Citrine Informatics](https://citrine.io/), [External Research Department](https://citrine.io/resources/research/)*  
+⇒ Designing AI/ML-driven development workflows for nuclear waste forms, catalysts, magnets, superconductors, and printed alloys  
+⇒ Managing ongoing projects & writing proposals for multi-institution interdisciplinary government grants  
+⇒ Presenting at conferences to disseminate research and build collaborator network  
+⇒ Advising customer teams on how to best leverage the Citrine Platform for their particular design challenges  
 
+
+<br>
+<br>
 The page design was forked from al-folio (details below).
 
 # al-folio
