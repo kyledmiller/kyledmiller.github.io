@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
  -->
 
 ### Keywords
-Materials design and discovery &ensp;|&ensp; Sequential/active learning &ensp;|&ensp; Explainable AI &ensp;|&ensp; Physics-informed models &ensp;|&ensp; Uncertainty quantification &ensp;|&ensp;  Structure-property relationships &ensp;|&ensp; Multiferroics
+Materials design and discovery &ensp;|&ensp; Sequential/active learning &ensp;|&ensp; Explainable AI &ensp;|&ensp; Physics-informed models &ensp;|&ensp; Uncertainty quantification &ensp;|&ensp;  Structure-property relationships &ensp;|&ensp; Density functional theory (DFT) &ensp;|&ensp; Ferroelectric &ensp;|&ensp; Metal-insulator transition
  <!-- &ensp;|&ensp; Uncertainty quantification &ensp;|&ensp; Data visualization &ensp;|&ensp; Surrogate models for atomic simulation  -->
 
 
